@@ -1,5 +1,7 @@
 # ToNSaveGenerator
-Save Generator for Terrors of Nowhere
+Save Generator for Terrors of Nowhere.
+
+Donate [me](https://github.com/extremeblackliu) for my works!
 
 # Feature
 Written in pure V8 engine, runs on Cloudflare worker!
