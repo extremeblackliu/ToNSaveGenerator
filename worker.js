@@ -59,7 +59,7 @@ async function checkturnstile(request)
   return outcome;
 }
 
-async function NotifyUsed(key, username, ip)
+async function NotifyUsed(username, ip)
 {
   // webhook notify
 }
